@@ -94,7 +94,7 @@ data-bs-target="#exampleModal"
 
         </div>
         <div class="p-2 w-50 bd-highlight">
-            <img width="250px" height="250px"
+            <img width="250" height="250"
                 :src="PhotoPath+PhotoFileName"/>
             <input class="m-2" type="file" @change="imageUpload">
         </div>
