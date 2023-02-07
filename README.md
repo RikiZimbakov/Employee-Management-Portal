@@ -2,6 +2,9 @@
 ## Written with MSSQL Database, .NET Core Backend/API VueJs Frontend
 
 ### Setup
+- clone project
+- when installing VSCode 2019, want these checked off ![image](https://user-images.githubusercontent.com/25595072/217160549-894b5372-c56b-42b7-81aa-29bc8332245a.png)
+
 - ensure you have your `appsettingscopy.json ` file changed to `appsettings.json`
 - Fill in `appsettings.json` with Database info
 - once you have all links installed and are running your backend, simply click on ui/index.html and you will be able to see your application!
